@@ -1,0 +1,24 @@
+{
+    "name": "hawwomusic-closing",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [],
+    "author": "Taylan GzLn",
+    "license": "MIT",
+    "dependencies": {
+        "@discordjs/builders": "^1.0.0",
+        "discord.js": "^14.7.1",
+        "express": "^4.18.1",
+        "fs": "^0.0.1-security",
+        "http": "^0.0.1-security",
+        "moment": "^2.29.4",
+        "moment-duration-format": "^2.3.2"
+    },
+    "engines": {
+        "node": "16.x"
+    }
+}
